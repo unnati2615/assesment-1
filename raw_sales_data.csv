@@ -1,0 +1,32 @@
+order_id,customer_name,product,category,price,quantity,order_date,region
+1001,Alice Johnson,Laptop,Electronics,75000,1,2024-01-05,North
+1002,Bob Smith,Mouse,Electronics,599,3,2024-01-07,South
+1003,Carol White,Desk Chair,Furniture,12000,2,2024-01-08,East
+1004,David Brown,Keyboard,Electronics,1800,2,2024-01-10,North
+1005,Alice Johnson,Monitor,Electronics,18000,1,2024-01-12,North
+1006,Eve Davis,Notebook,Stationery,,5,2024-01-13,West
+1007,Frank Miller,Pen Set,Stationery,250,10,2024-01-14,South
+1008,Grace Lee,Laptop,Electronics,75000,1,2024-01-15,East
+1009,Henry Wilson,Desk Chair,Furniture,12000,,2024-01-16,North
+1010,Ivy Moore,USB Hub,Electronics,999,4,2024-01-18,West
+1011,Jack Taylor,Monitor,Electronics,18000,2,2024-01-19,South
+1012,Bob Smith,Mouse,Electronics,599,3,2024-01-07,South
+1013,Karen Anderson,Whiteboard,Stationery,3500,1,2024-01-21,East
+1014,Leo Thomas,Webcam,Electronics,2500,1,2024-01-22,
+1015,Mia Jackson,Notebook,Stationery,180,8,2024-01-23,West
+1016,Nathan Harris,Standing Desk,Furniture,25000,1,2024-01-24,North
+1017,Olivia Martin,Headphones,Electronics,3200,2,2024-01-25,South
+1018,Paul Garcia,Pen Set,Stationery,250,6,2024-01-26,East
+1019,Quinn Martinez,Laptop,Electronics,,1,2024-01-27,West
+1020,Rachel Robinson,Mouse,Electronics,599,2,2024-01-28,North
+1021,Sam Clark,Keyboard,Electronics,1800,3,2024-01-29,South
+1022,Tina Lewis,Desk Chair,Furniture,12000,1,2024-01-30,East
+1023,Uma Walker,USB Hub,Electronics,999,2,2024-01-31,West
+1024,Victor Hall,Webcam,Electronics,2500,1,2024-02-01,North
+1025,Wendy Allen,Headphones,Electronics,3200,1,2024-02-02,South
+1025,Wendy Allen,Headphones,Electronics,3200,1,2024-02-02,South
+1026,Xander Young,Notebook,Stationery,180,10,2024-02-03,East
+1027,Yara Hernandez,Standing Desk,Furniture,25000,1,2024-02-04,West
+1028,Zoe King,Monitor,Electronics,18000,1,2024-02-05,North
+1029,Alice Johnson,Keyboard,Electronics,1800,2,2024-02-06,North
+1030,Bob Smith,Whiteboard,Stationery,3500,1,2024-02-07,South
